@@ -1,5 +1,4 @@
 ---
-
 ## **Core Concepts**
 
 ### 1. **Relational Database Management System (RDBMS)**
