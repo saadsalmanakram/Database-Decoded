@@ -1,4 +1,3 @@
-Here’s a detailed `README.md` for **Apache HBase** under the **Columnar Database** section:
 
 ---
 
@@ -156,5 +155,3 @@ HBase stores data in a column-oriented fashion, where each column family is stor
  HBase’s built-in replication and automatic region splitting ensure that your data is always available and fault-tolerant.
 
 ---
-
-This `README.md` provides a comprehensive guide to understanding **Apache HBase** as a columnar NoSQL database, and how it can be used for scalable, distributed data storage and real-time analytics!
